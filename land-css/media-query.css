@@ -1,0 +1,402 @@
+@media (max-width: 512px) {
+     h1 {
+          font-size: 50px;
+          line-height: 1.1;
+          text-align: center;
+     }
+
+     h2 {
+          font-size: 35px;
+          line-height: 1;
+     }
+
+     h3 {
+          font-size: 28px;
+     }
+
+     h4 {
+          font-size: 25px;
+     }
+
+     h5 {
+          font-size: 20px;
+     }
+
+     p {
+          line-height: 1.5;
+          
+     }
+
+     .cadastreSe {
+          text-align: center;
+     }
+
+     .space {
+          padding: 40px 0;
+     }
+     .nav-menu {
+          border-bottom: 0;
+     }
+
+     .main-title {
+          padding: 0;
+          margin-top: -300px;
+     }
+
+     .main-title__alt {
+          padding: 20px 0;
+     }
+
+     .header__bg {
+          background-position: calc(50% + 200px) 50%;
+     }
+     .header__bg {
+          background: none;
+     }
+
+     .hero-title {
+          padding: 50% 10% 0;
+     }
+
+     .form-group {
+          padding-top: 2%;
+          width: 100%;
+     }
+
+     .resp-enviar {
+          width: 75%;
+          display: block;
+          margin-left: 10%;
+     }
+
+      .resp-enviar:hover {
+           width: 75%;
+           display: block;
+           margin-left: 10%;
+      }
+
+
+
+     .banner-img img {
+          position: absolute;
+          top: -260px;
+          right: -190px;
+          min-width: inherit;
+          max-height: 900px;
+          z-index: 0;
+     }
+     .banner-img img {
+          top: -300px;
+          right: -100px;
+          max-height: 1100px;
+     }
+
+     .banner-resp-2 {
+          width: 50%;
+     }
+
+     .banner-resp-2 {
+          margin-left: 5%;
+          width: 80%;
+     }
+
+     .insurance-title_wrap {
+          padding: 12px 0 39rem;
+     }
+
+     .acesse {
+          width: 50%;
+          margin-left: 25%;
+     }
+
+
+
+
+
+}
+
+@media (max-width: 1200px) {
+     .header__bg {
+          background-position: calc(50% + 200px) 50%;
+     }
+}
+
+
+@media (max-width: 768px) {
+     .header__bg {
+          background: none;
+     }
+
+      .insurance-title_wrap {
+           padding: 12px 0 28rem;
+      }
+}
+
+@media (max-width: 576px) {
+     .insurance-title_wrap {
+          padding: 12px 0 23rem;
+     }
+}
+
+@media (max-width: 480px) {
+     .insurance-title_wrap {
+          padding: 12px 0 16rem;
+     }
+}
+
+@media (max-width: 992px) {
+     .howit-block_af:after {
+          display: none;
+     }
+}
+
+@media (max-width: 1400px) {
+     .testimonial {
+          padding: 157px 0;
+     }
+}
+
+@media (max-width: 992px) {
+     .testimonial {
+          padding: 0;
+     }
+}
+
+@media (min-width: 992px) {
+     .testi-img_wrap {
+          position: absolute;
+          bottom: 0;
+          right: 0;
+          max-width: 60%;
+     }
+}
+
+@media (min-width: 1200px) {
+     .testi-img_wrap {
+          max-width: 50%;
+          right: 8%;
+     }
+}
+
+@media (max-width: 768px) {
+     .testi-content_block h3 {
+          font-size: 24px;
+     }
+}
+
+@media (max-width: 992px) {
+     .add-section {
+          padding: 60px 0;
+          text-align: center;
+     }
+}
+
+@media (max-width: 992px) {
+     .shield {
+          margin: 0 0 15px;
+     }
+}
+
+@media (max-width: 1200px) {
+     .add-btn {
+          float: none;
+          margin: 0px 0 0 36px;
+     }
+}
+
+@media (max-width: 992px) {
+     .add-btn {
+          margin: 15px 0 0 0;
+     }
+}
+
+@media (max-width: 992px) {
+     .pricing {
+          padding: 25px 0;
+     }
+}
+
+@media (max-width: 768px) {
+     .pricing-bg {
+          display: none;
+     }
+}
+
+@media (max-width: 768px) {
+     .pricing-wrap {
+          margin: 30px 0 0;
+     }
+}
+
+@media (max-width: 992px) {
+     .pricing-block {
+          padding: 33px 13px;
+     }
+}
+
+@media (max-width: 992px) {
+     .pricing-block p {
+          font-size: 13px;
+     }
+}
+
+@media (max-width: 768px) {
+     .pricing-block_middle {
+          margin: 25px 0;
+          -webkit-transform: none;
+          -ms-transform: none;
+          transform: none;
+     }
+}
+
+@media (max-width: 992px) {
+     .pricing-bottom_text {
+          margin: 25px 0 0;
+     }
+}
+
+@media (max-width: 1200px) {
+     .collapse-set {
+          padding: 0;
+     }
+}
+
+@media (max-width: 1200px) {
+     .pricing-bg02 {
+          bottom: 42%;
+          width: 45%;
+     }
+}
+
+@media (max-width: 1200px) {
+     .pricing-bg02 {
+          display: none;
+     }
+}
+
+@media (min-width: 992px) {
+     .responsive-bg {
+          display: none;
+     }
+}
+
+@media (max-width: 1600px) {
+     .main-banner {
+          right: 4%;
+     }
+}
+
+@media (max-width: 1400px) {
+     .main-banner {
+          right: 0;
+     }
+}
+
+@media (max-width: 1200px) {
+     .main-banner {
+          right: -2%;
+          width: 75%;
+     }
+}
+
+@media (max-width: 992px) {
+     .main-banner {
+          right: -4%;
+          width: 70%;
+     }
+}
+
+@media (max-width: 768px) {
+     .main-banner {
+          display: none;
+     }
+}
+
+@media (min-width: 768px) {
+     .main-banner_md {
+          display: none;
+     }
+}
+
+@media (max-width: 1400px) {
+     .bg-style2 {
+          left: -15%;
+     }
+}
+
+@media (max-width: 992px) {
+     .bg-style2 {
+          left: -20%;
+          bottom: 6%;
+     }
+}
+
+@media (max-width: 768px) {
+     .bg-style2 {
+          width: 45%;
+          bottom: 2%;
+     }
+}
+
+@media (max-width: 1400px) {
+     .banner-img-3 {
+          left: 0;
+     }
+}
+
+@media (max-width: 1200px) {
+     .banner-img-3 {
+          width: 75%;
+     }
+}
+
+@media (max-width: 992px) {
+     .banner-img-3 {
+          width: 100%;
+          bottom: 0;
+     }
+}
+
+@media (max-width: 768px) {
+     .banner-img-3 {
+          width: 65%;
+     }
+}
+
+@media (max-width: 768px) {
+     .content-box1 {
+          padding: 0;
+     }
+}
+
+@media (max-width: 992px) {
+     .insurance-title_wrap2 {
+          padding: 12px 0 39rem;
+     }
+}
+
+@media (max-width: 768px) {
+     .insurance-title_wrap2 {
+          padding: 12px 0 28rem;
+     }
+}
+
+@media (max-width: 576px) {
+     .insurance-title_wrap2 {
+          padding: 12px 0 23rem;
+     }
+}
+
+@media (max-width: 480px) {
+     .insurance-title_wrap2 {
+          padding: 12px 0 16rem;
+     }
+}
+
+@media (max-width: 992px) {
+     .howit-block:after {
+          display: none;
+     }
+}
+
+
