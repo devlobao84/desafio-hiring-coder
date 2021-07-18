@@ -399,4 +399,10 @@
      }
 }
 
+@media(max-width: 576px) {
+     .resp-social {
+          margin-left: 43%;
+     }
+}
+
 
