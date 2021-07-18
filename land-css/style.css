@@ -426,11 +426,6 @@ header {
   margin-top: 2%;
   z-index: -10;
 }
-.enviar {
-  background-color: black;
-  color: white;
-  border-radius: 25px;
-}
 
 .enviar {
   display: block;
@@ -444,6 +439,7 @@ header {
   border: none;
   border-radius: 25px;
   text-decoration: none;
+  cursor: pointer;
 }
 
 .enviar:hover {
@@ -490,4 +486,24 @@ header {
 footer {
   padding: 60px 0 50px;
   background: #000000;
+}
+
+.social-media {
+  display: flex; 
+  width: 100vw; 
+  margin-left: 45%;
+  
+}
+
+.icon-github {
+  width: 30px;
+  height: 30px;
+  
+}
+
+.icon-linkedin {  
+  width: 30px;
+  height: 30px;
+  margin-left: 30%;
+
 }
